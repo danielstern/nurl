@@ -10,7 +10,7 @@ Nurl is basically a port of the Curl CLI to Node. It implements Request under th
 Curl is annoying to install on Windows. Nurl is a lot easier because it uses NPM.
 
 ### Installation
-`npm intall -g nurl`
+`npm intall -g nurl-cli`
 
 ### Usage
 `nurl <url>`
