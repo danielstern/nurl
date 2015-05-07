@@ -1,5 +1,5 @@
 {
-  "name": "nurl-cli",
+  "name": "nurl",
   "version": "1.0.0",
   "description": "curl for node",
   "scripts": {
