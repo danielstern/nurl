@@ -19,6 +19,7 @@
     "request": "^2.55.0"
   },
   "bin": {
-    "nurl": "index.js"
+    "nurl": "index.js",
+    "ippublic": "ippublic.js"
   }
 }

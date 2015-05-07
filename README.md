@@ -13,10 +13,18 @@ Curl is annoying to install on Windows. Nurl is a lot easier because it uses NPM
 `npm intall -g nurl`
 
 ### Usage
-`nurl <url>`
+####`nurl <url>`
 
 Queries a URL for you and outputs what's returned.
 
-#### Example
+##### Example
     > nurl http://ipecho.net/plain
+    50.172.64.1
+
+#### `ippublic`
+
+Queries `ipecho.net` and returns your public IP.
+
+##### Example
+    > ippublic
     50.172.64.1
