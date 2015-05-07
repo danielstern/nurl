@@ -7,7 +7,10 @@
   },
   "keywords": [
     "curl",
-    "get"
+    "get",
+		"node",
+		"cli",
+		"request"
   ],
   "preferGlobal": true,
   "author": "daniel stern",
