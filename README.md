@@ -1,6 +1,7 @@
 # nurl
-## `nurl http://google.com`
 Node-based Curl-like Command Line Interface Installed through NPM
+
+### `nurl http://github.com`
 
 ## What is nurl?
 Nurl is basically a port of the Curl CLI to Node. It implements Request under the hood.
