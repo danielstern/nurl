@@ -1,0 +1,21 @@
+{
+  "name": "nurl",
+  "version": "1.0.0",
+  "description": "curl for node",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curl",
+    "get"
+  ],
+  "preferGlobal": true,
+  "author": "daniel stern",
+  "license": "FSM",
+  "dependencies": {
+    "request": "^2.55.0"
+  },
+  "bin": {
+    "nurl": "index.js"
+  }
+}
