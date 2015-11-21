@@ -8,14 +8,15 @@
   "keywords": [
     "curl",
     "get",
-		"node",
-		"cli",
-		"request"
+    "node",
+    "cli",
+    "request"
   ],
   "preferGlobal": true,
   "author": "daniel stern",
   "license": "FSM",
   "dependencies": {
+    "minimist": "^1.2.0",
     "request": "^2.55.0"
   },
   "bin": {
